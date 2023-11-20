@@ -14,6 +14,8 @@ public class fahri {
         } else {
             System.out.println("Number " + number + " you entered is an odd");
         }
+
+        //change
     }
 
     public static void main(String[] args){
