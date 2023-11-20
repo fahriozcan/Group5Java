@@ -9,6 +9,7 @@ public class Sumeyye {
         divideTwoNumbers();
     }
 
+
     private static void divideTwoNumbers(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter 1st number: ");
