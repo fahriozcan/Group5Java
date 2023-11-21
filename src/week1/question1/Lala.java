@@ -8,6 +8,7 @@ public class Lala {
         System.out.println(" enter your number");
         int num = input.nextInt();
 
+
         if (num % 2 == 0) {
             System.out.println(num + "  is an even number");
         } else {
