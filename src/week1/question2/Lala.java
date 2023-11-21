@@ -12,6 +12,7 @@ public class Lala {
 
         System.out.println("result = " + Math.floorDiv(number1,number2));
 
+
     }
 }
 
