@@ -2,21 +2,16 @@ package week1.question2;
 
 import java.util.Scanner;
 
-        public class lala {
-            public static void main(String[] args) {
+public class Lala {
+    private static void divideTwoNumbers() {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter 1st number:");
+        int number1 = sc.nextInt();
+        System.out.println("Enter 2nd number:");
+        int number2 = sc.nextInt();
 
-                divideTwoNumbers();
+        System.out.println("result = " + Math.floorDiv(number1,number2));
 
-            }
-
-            private static void divideTwoNumbers() {
-                Scanner input = new Scanner(System.in);
-
-                System.out.println("Enter 1st number:");
-                int number1 = input.nextInt();
-                System.out.println("Enter 2nd number:");
-                int number2 = input.nextInt();
-
-                System.out.println("result = " + Math.floorDiv(number1, number2));
-            }
-        }
+    }
+}
+}
