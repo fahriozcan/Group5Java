@@ -15,7 +15,7 @@ public class Betul {
             System.out.println( num + " is an odd number");
         }
     }
-
+//new updates in java question1
     public static void main(String[] args){
 
         OddOrEven();
