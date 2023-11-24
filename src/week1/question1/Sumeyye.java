@@ -12,17 +12,7 @@ public class Sumeyye {
 
 
     public static void main(String[] args) {
-
         everOrOdd(30);
-
-
-
-
-
-
-
-
-
     }
 }
 
