@@ -21,6 +21,7 @@ public class Selma {
         while (a >= b) {
             a -= b;
             count++;
+
         }
 
         System.out.println(count+" with a remainder of "+a);
