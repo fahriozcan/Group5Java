@@ -12,6 +12,8 @@ public class Selma {
             System.out.println("Your number is even");
         }else{
             System.out.println("Your  number is odd");
+
+
         }
 
 
