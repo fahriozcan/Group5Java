@@ -30,3 +30,8 @@ public class Emre_EvenOrOdd {
     }
 
 }
+
+/*
+    Write a method which can identify given number is even or odd
+
+ */

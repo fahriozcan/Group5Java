@@ -25,11 +25,23 @@ public class Emre_DivideTwoNumbers {
 
         }
 
-        int result = number1 / number2;
+        scan.close();
+
+        int result = 0;
+        int i = 0;
+        while (number1 >= number2) {
+            number1 -= number2;
+            i++;
+        }
+        result = i;
         System.out.println("Division: " + result);
 
     }
 
 }
 
+/*
+Numbers -- Divide without / operator
+Write a method that can divide two numbers without using division operator
+ */
 
